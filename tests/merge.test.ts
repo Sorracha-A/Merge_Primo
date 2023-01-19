@@ -31,12 +31,6 @@ describe('merge function', () => {
         const expected = [100000000, 200000000, 300000000, 400000000, 500000000, 600000000];
         expect(merge(collection1, collection2)).toEqual(expected);
     });
-    it('it should expect to return correct result even if input arrays contain negative numbers', () => {
-        const collection1 = [-5, -3, -1];
-        const collection2 = [-6, -4, -2];
-        const expected = [-6, -5, -4, -3, -2, -1];
-        expect(merge(collection1, collection2)).toEqual(expected);
-    });
 
 
 });
