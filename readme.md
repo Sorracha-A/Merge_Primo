@@ -1,4 +1,4 @@
-# Project Title
+# Merge_Primo
 
 This is a merge program for two soted arrays. The program will merge two sorted arrays into one sorted array. 
 
@@ -42,5 +42,5 @@ npm run buildtest
 TypeScript - A superset of JavaScript that adds optional type annotations
 Jest - A JavaScript Testing Framework
 
-### Authors
+### Author
 Sorracha Aiemmeesri
