@@ -1,4 +1,4 @@
-# Project Title
+# Merge Primo
 
 A brief description of the project.
 
