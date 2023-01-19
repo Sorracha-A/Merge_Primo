@@ -1,4 +1,4 @@
-# Merge Primo
+# Merge_Primo
 
 A brief description of the project.
 
@@ -42,5 +42,5 @@ npm run buildtest
 TypeScript - A superset of JavaScript that adds optional type annotations
 Jest - A JavaScript Testing Framework
 
-### Authors
+### Author
 Sorracha Aiemmeesri
